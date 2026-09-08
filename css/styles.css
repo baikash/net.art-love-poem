@@ -1,0 +1,11 @@
+:root {
+  --accent-color: #35748a;
+  --bg-color: #ecddd7;
+}
+
+body {
+  background-color: var(--bg-color);
+  font-family: Helvetica, Arial, sans-serif;
+  background-image: url('images/love_hands.jpg');
+  
+}
