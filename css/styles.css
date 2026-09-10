@@ -1,14 +1,61 @@
 :root {
-  --accent-color: #35748a;
-  --bg-color: #ff9ecf;
-  --text-color: #520c66;
+  --accent-color: #35748A;
+  --bg-color: #FF9ECF;
+}
+
+.lobster-two-regular {
+  font-family: "Lobster Two", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.lobster-two-bold {
+  font-family: "Lobster Two", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.lobster-two-regular-italic {
+  font-family: "Lobster Two", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.lobster-two-bold-italic {
+  font-family: "Lobster Two", sans-serif;
+  font-weight: 700;
+  font-style: italic;
 }
 
 body {
   /*background-color: var(--bg-color);*/
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: "Lobster Two", Helvetica, Arial, sans-serif;
+  text-align: center;
+  color: rgb(84, 20, 52);
   background-image: url(https://github.com/baikash/net.art-love-poem/blob/main/images/sunsetBackground.webp?raw=true);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+}
+
+img {
+  border: 5px solid rgb(153, 9, 81);
+}
+
+h1 {
+  color: rgb(153, 9, 81);
+}
+
+hr {
+  display: none;
+}
+
+dialog {
+  font-style: italic;
+  background-color: rgb(209, 86, 137);
+}
+
+blockquote {
+  font-weight: 700;
+  font-style: italic;
 }
