@@ -6,6 +6,8 @@
 body {
   background-color: var(--bg-color);
   font-family: Helvetica, Arial, sans-serif;
-  background-image: 'images/sunsetBackground.webp';
-  
+  background-image: url('images/sunsetBackground.webp');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
