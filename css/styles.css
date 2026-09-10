@@ -31,6 +31,8 @@ body {
   /*background-color: var(--bg-color);*/
   font-family: "Lobster Two", Helvetica, Arial, sans-serif;
   text-align: center;
+  align-content: center;
+  align-self: center;
   color: rgb(84, 20, 52);
   background-image: url(https://github.com/baikash/net.art-love-poem/blob/main/images/sunsetBackground.webp?raw=true);
   background-repeat: no-repeat;
