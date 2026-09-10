@@ -7,7 +7,7 @@
 body {
   /*background-color: var(--bg-color);*/
   font-family: Helvetica, Arial, sans-serif;
-  background-image: url("images/sunsetBackground.webp");
+  background-image: url(https://github.com/baikash/net.art-love-poem/blob/main/images/sunsetBackground.webp?raw=true);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
